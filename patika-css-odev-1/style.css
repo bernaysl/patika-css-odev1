@@ -1,0 +1,25 @@
+body{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+    background-color: #6998AB ;
+    color: #1A374D;
+}
+nav{
+    list-style: none;
+}
+nav li{
+    display: inline;
+    position: relative;
+}
+ul li a{
+    color: #406882;
+}
+ul li a:hover{
+    color: #B1D0E0;
+}
+h2,h3{
+    color: #406882;
+}
+
